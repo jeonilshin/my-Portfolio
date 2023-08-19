@@ -1,2 +1,13 @@
-# my-Portfolio
-This is my Portfolio that I created using Next JS, Tailwind CSS &amp; Framer Motion
+# code.ILSHIN 포트폴리오
+---
+## MAIN LANGUAGE: Next JS
+
+```
+npm i
+npm run dev
+```
+
+### Refrence code:
+``` 
+https://github.com/cristianmihai01/ethan-portfolio-starter
+```
