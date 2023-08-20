@@ -15,7 +15,7 @@ const Contact = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm('service_fsjvo5f', 'template_rgmgn7m', form.current, 'bipREOg7PXnRrX-ja')
+      .sendForm('<Service API>', '<Template API>', form.current, '<Public Key API>')
       .then((result) => {
         console.log(result.text);
         clearForm(); // Clear form after successful submission
